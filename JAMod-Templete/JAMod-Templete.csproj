@@ -513,4 +513,10 @@
     </Target>
     -->
 
+    <Target Name="AfterBuild">
+        <Copy SourceFiles="bin/Debug/JAMod_Templete.dll" DestinationFolder="D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\Mods\JAMod_Templete"/>
+        <Exec Command="taskkill /f /im &quot;A Dance*&quot; || exit 0"/>
+        <Exec Command="explorer steam://rungameid/977950 || exit 0"/>
+    </Target>
+
 </Project>
