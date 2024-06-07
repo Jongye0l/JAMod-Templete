@@ -1,7 +1,7 @@
 ﻿using JALib.Core;
 using UnityModManagerNet;
 
-namespace JAMod_Templete {
+namespace MyMod {
     public class Main : JAMod {
         public Main(UnityModManager.ModEntry modEntry) : base(modEntry, false, null, typeof(Main)) {
             

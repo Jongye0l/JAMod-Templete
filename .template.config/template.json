@@ -1,0 +1,12 @@
+{
+  "author": "Jongyeol",
+  "name": "JAMod Templete",
+  "description": "Create Adofai mod for JALib",
+  "identity": "Jongyeol.JAMod",
+  "shortName": "JAMod",
+  "tags": {
+    "language": "C#",
+    "type": "solution"
+  },
+  "sourceName": "MyMod"
+}

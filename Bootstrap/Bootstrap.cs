@@ -1,7 +1,7 @@
 ﻿using JALib.Bootstrap;
 using UnityModManagerNet;
 
-namespace JAMod_Templete {
+namespace MyMod {
     public class Bootstrap {
         public static void Setup(UnityModManager.ModEntry modEntry) => JABootstrap.Load(modEntry);
     }

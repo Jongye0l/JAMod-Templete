@@ -8,8 +8,8 @@
         <ProjectGuid>{17D00ABB-1835-4472-BBC6-531CDA73E0E6}</ProjectGuid>
         <OutputType>Library</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>JAMod_Templete</RootNamespace>
-        <AssemblyName>JAMod_Templete</AssemblyName>
+        <RootNamespace>MyMod</RootNamespace>
+        <AssemblyName>MyMod</AssemblyName>
         <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
     </PropertyGroup>

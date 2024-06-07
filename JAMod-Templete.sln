@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JAMod-Templete", "JAMod-Templete\JAMod-Templete.csproj", "{17D00ABB-1835-4472-BBC6-531CDA73E0E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMod", "MyMod\MyMod.csproj", "{17D00ABB-1835-4472-BBC6-531CDA73E0E6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootstrap", "Bootstrap\Bootstrap.csproj", "{37BFD948-72ED-4D01-A682-430EF06315E1}"
 EndProject
