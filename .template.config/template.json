@@ -6,7 +6,7 @@
   "shortName": "JAMod",
   "tags": {
     "language": "C#",
-    "type": "solution"
+    "type": "project"
   },
-  "sourceName": "MyMod"
+  "sourceName": "JAMod"
 }

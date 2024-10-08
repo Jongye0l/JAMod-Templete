@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("JAMod_Templete")]
+[assembly: AssemblyTitle("JAMod")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("JAMod_Templete")]
+[assembly: AssemblyProduct("JAMod")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("17D00ABB-1835-4472-BBC6-531CDA73E0E6")]
+[assembly: Guid("BE8D976D-BF3E-4B51-BFDC-265E8BEEAB19")]
 
 // Version information for an assembly consists of the following four values:
 //

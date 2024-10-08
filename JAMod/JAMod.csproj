@@ -5,13 +5,14 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{17D00ABB-1835-4472-BBC6-531CDA73E0E6}</ProjectGuid>
+        <ProjectGuid>{BE8D976D-BF3E-4B51-BFDC-265E8BEEAB19}</ProjectGuid>
         <OutputType>Library</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>MyMod</RootNamespace>
-        <AssemblyName>MyMod</AssemblyName>
+        <RootNamespace>JAMod</RootNamespace>
+        <AssemblyName>JAMod</AssemblyName>
         <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
+        <LangVersion>latest</LangVersion>
     </PropertyGroup>
     <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
         <PlatformTarget>AnyCPU</PlatformTarget>
@@ -512,11 +513,5 @@
     <Target Name="AfterBuild">
     </Target>
     -->
-
-    <Target Name="AfterBuild">
-        <Copy SourceFiles="bin/Debug/JAMod_Templete.dll" DestinationFolder="D:\SteamLibrary\steamapps\common\A Dance of Fire and Ice\Mods\JAMod_Templete"/>
-        <Exec Command="taskkill /f /im &quot;A Dance*&quot; || exit 0"/>
-        <Exec Command="explorer steam://rungameid/977950 || exit 0"/>
-    </Target>
 
 </Project>
