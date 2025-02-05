@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JAMod", "JAMod\JAMod.csproj", "{BE8D976D-BF3E-4B51-BFDC-265E8BEEAB19}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JAModTemplete", "JAModTemplete\JAModTemplete.csproj", "{BE8D976D-BF3E-4B51-BFDC-265E8BEEAB19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

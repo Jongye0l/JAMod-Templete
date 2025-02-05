@@ -1,10 +1,11 @@
 ﻿using JALib.Core;
 using UnityModManagerNet;
 
-namespace JAMod_Templete;
+namespace JAModTemplete;
 
 public class Main : JAMod {
-    public Main(UnityModManager.ModEntry modEntry) : base(modEntry, false) {
+    protected override void OnSetup() {
+        base.OnSetup();
     }
 
     protected override void OnEnable() {

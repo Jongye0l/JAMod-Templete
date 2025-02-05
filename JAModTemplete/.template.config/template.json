@@ -3,10 +3,10 @@
   "name": "JAMod Templete",
   "description": "Create Adofai mod for JALib",
   "identity": "Jongyeol.JAMod",
-  "shortName": "JAMod",
+  "shortName": "JAModTemplete",
   "tags": {
     "language": "C#",
     "type": "project"
   },
-  "sourceName": "JAMod"
+  "sourceName": "JAModTemplete"
 }
